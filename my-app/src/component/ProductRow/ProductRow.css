@@ -1,0 +1,8 @@
+td,
+th {
+    width: 100px;
+}
+
+.notInStock {
+    color: red;
+}

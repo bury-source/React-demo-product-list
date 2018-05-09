@@ -1,0 +1,8 @@
+.title {
+    font-weight: bold;
+}
+
+td,
+th {
+    width: 100px;
+}
